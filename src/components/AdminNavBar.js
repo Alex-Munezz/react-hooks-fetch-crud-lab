@@ -8,5 +8,4 @@ function AdminNavBar({ onChangePage }) {
     </nav>
   );
 }
-
 export default AdminNavBar;

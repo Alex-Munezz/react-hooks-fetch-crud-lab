@@ -94,5 +94,4 @@ function QuestionForm() {
     </section>
   );
 }
-
 export default QuestionForm;

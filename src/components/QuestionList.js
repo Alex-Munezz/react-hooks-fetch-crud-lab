@@ -34,5 +34,4 @@ function QuestionList() {
     </section>
   );
 }
-
 export default QuestionList;

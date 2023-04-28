@@ -46,5 +46,4 @@ function QuestionItem({ question, handleDeletedQuestion }) {
     </li>
   );
 }
-
 export default QuestionItem;
